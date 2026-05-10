@@ -1,0 +1,16 @@
+body{
+    font-family: Georgia;
+    background-color: darksalmon;
+    cursor: crosshair;
+}
+h4{
+    color: mediumspringgreen;
+}
+table,th,td{
+  border: 1px solid grey;
+  text-align:center;
+} 
+
+th,td{
+   padding:10px;
+}
